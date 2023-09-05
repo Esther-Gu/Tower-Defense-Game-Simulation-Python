@@ -4,9 +4,13 @@
 
 Ants Vs. SomeBees is a tower defense game built in Python. The game is inspired by PopCap Games' Plants Vs. Zombies and combines both functional and object-oriented programming paradigms. The gameplay focuses on strategically placing ants to protect their queen from the bees that seek to invade the territory.
 
-[Watch my implementation on YouTube](https://youtu.be/brHZsJLfQJI)
+[See this program on YouTube](https://youtu.be/brHZsJLfQJI)
 
 ![Game Start GUI](img/ants_GUI_game_start.png)
+
+## My Contribution
+
+I've actively contributed to this project by implementing 8+ key features and optimizing existing functions for better performance, based on a coursework project where the code structure was provided as a skeleton. My work enhances the project's efficiency and extends its capabilities.
 
 ## Features
 
